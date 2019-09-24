@@ -1,0 +1,31 @@
+body {background-color:rgb(206, 182, 195); 
+}
+header h1 {
+    text-align:center;
+    color:white
+    font-size:60;
+
+
+}
+nav {
+    text-decoration:none;
+    font-size:30px;
+    color:white;
+
+
+}
+.bedroom img {
+    width: 20%;
+}
+
+.livingroom img {
+    width:20%;
+
+}
+.kitchen img {
+    width:20%;
+}
+
+
+
+
