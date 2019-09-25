@@ -27,9 +27,9 @@ var picture;
 
 //processing
 if (room == 'living room'){
-  picture = '<img src"https://freshome.com/wp-content/uploads/2018/01/living-room-intro.jpg">'
+  picture = '<img src="https://freshome.com/wp-content/uploads/2018/01/living-room-intro.jpg">'
 } else if (room == 'bedroom') {
-  picture = '<immg src="https://st.hzcdn.com/fimgs/dcc15d8c0ab11ed0_9483-w312-h312-b0-p0--modern-bedroom.jpg">'
+  picture = '<img src="https://st.hzcdn.com/fimgs/dcc15d8c0ab11ed0_9483-w312-h312-b0-p0--modern-bedroom.jpg">'
 } else if ( room== 'kitchen') {
   picture = '<img src="https://www.ikea.com/images/73/8d/738dc6659e0b04b7c645012910280fe9.jpg?f=s">'
 
